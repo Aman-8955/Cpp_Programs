@@ -18,6 +18,7 @@ class C:public B{
 };
 int main()
 {
+    // A obj; You can't make an object of abstract class
     B *ptr;
     B objb;
     C objc;

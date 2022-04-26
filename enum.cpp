@@ -1,18 +1,7 @@
 #include <iostream>
 using namespace std;
 enum year {
-	Jan=1,
-	Feb,
-	Mar,
-	Apr,
-	May,
-	Jun,
-	Jul,
-	Aug,
-	Sep,
-	Oct,
-	Nov,
-	Dec
+	Jan=1,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 };
 int main()
 {
